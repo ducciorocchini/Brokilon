@@ -79,3 +79,6 @@ buffer.2500 <- buffer(clcItaly, width=buf2500)
 > buf250m <- 250
 > buffer.250m <- buffer(clc.forest, width=buf250m)
 ### stesso risultato 
+
+
+# https://rdrr.io/cran/raster/man/extract.html
